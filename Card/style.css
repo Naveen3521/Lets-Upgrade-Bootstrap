@@ -1,0 +1,26 @@
+*{
+    background-color: #548CA8;
+}
+#head{
+    background-color:#334257;
+    color: white;
+}
+.card{
+    padding: 0px !important;
+    margin-left:70px;
+    margin-bottom: 10px;
+}
+.table{
+    width: 100%;
+}
+.caption{
+    text-align: center;
+    color: white;
+    font-size: large;
+}
+.footer{
+    background-color: #548CA8;
+    text-align: center;
+    font-size: 30px;
+    color: white;  
+}

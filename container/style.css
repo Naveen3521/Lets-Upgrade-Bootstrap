@@ -1,0 +1,19 @@
+.my-container{
+    background-color: #515E63;
+    height:100vh;   
+}
+.block{
+    background-color: #C9D8B6;
+    min-height: 150px;
+}
+.block1{
+    background-color: #57837B;
+    min-height: 150px;
+}
+.block2{
+    background-color: #F1ECC3;
+    min-height: 150px;
+}
+
+
+
